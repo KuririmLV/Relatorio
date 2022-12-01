@@ -1,0 +1,13 @@
+html {
+    background: #000;
+    color: greenyellow;
+    margin-top: 5%;
+    margin-left: 10%;
+    text-shadow: 2px 2px 5px orange;
+}
+
+table, th, td {
+    border: 1px solid whitesmoke;
+    margin-top: 1%;
+    padding: 3px 3px;
+}
