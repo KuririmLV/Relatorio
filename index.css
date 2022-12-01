@@ -1,9 +1,9 @@
 html {
-    background: green;
+    background: black;
     color: orange;
     margin-top: 5%;
     margin-left: 10%;
-    text-shadow: 2px 2px 5px black;
+    text-shadow: 2px 2px 10px whitesmoke;
     text-align: left;
 }
 
